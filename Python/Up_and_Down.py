@@ -1,4 +1,4 @@
-#Simple up&down game
+#up&down game
 import random
 
 print("="*33)
