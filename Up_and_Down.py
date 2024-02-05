@@ -8,7 +8,7 @@ print("="*33)
 
 attempt = 1
 
-ans = 10
+ans = random.randint(1,100)
 
 while True:
     print("What is your answer? : ",end="")
