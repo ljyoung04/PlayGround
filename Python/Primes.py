@@ -6,6 +6,7 @@ class Prime:
                 return False
         return True
     
+    
     def findPrime(n):
         sieve = [True] * n
 
