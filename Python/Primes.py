@@ -5,6 +5,7 @@ class Prime:
             if n % i == 0:
                 return False
         return True
+    
     def findPrime(n):
         sieve = [True] * n
 
