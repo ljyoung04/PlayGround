@@ -1,2 +1,2 @@
-<h1>Welcome to my Repo!</h1>
-개인 공부용 저장소
+<h1>hello</h1>
+잡다한 것 모음
